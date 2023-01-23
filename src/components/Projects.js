@@ -31,7 +31,7 @@ function Projects() {
           />
 
           <SingleProject 
-            href='https://login-register-project116.herokuapp.com/' 
+            href='https://login-register-116.onrender.com' 
             img='images/register-login-img.jpg' 
             title='Register/Login app' 
             text='A Full Stack login/register project built using Node.js, Express and MongoDB. Register now and see how it works!' 
